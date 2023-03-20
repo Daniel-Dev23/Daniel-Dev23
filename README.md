@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil profesional como **desarrollador de software**. Tengo la visión de crear un espacio en Github, donde pueda **compartir mi experiencia** a lo largo de 3 años en el rubro, así como **preservar el conocimiento** adquirido y que estoy por conocer. ✨
 
-Sientéte libre de explorar y conocer mi trabajo. Si te interesa que colaboremos juntos, puedes contactarme por los medios establecidos. 🙌🏻
+Sientéte libre de explorar y conocer mi trabajo. Si te interesa que colaboremos juntos, puedes contactarme por los medios establecidos.
 
 > *"Si quieres realizar cosas increiblemente grandes, primero demuestra que puedes hacer cosas pequeñas."*
 
